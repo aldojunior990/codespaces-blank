@@ -1,7 +1,0 @@
-#include "grafo.h"
-#include "grafo.c"
-
-int C(GRAFO *I, int **S){
-
-
-}

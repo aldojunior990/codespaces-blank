@@ -83,21 +83,6 @@ void imprime(GRAFO *gr)
 }
 
 
-int main()
-{
 
-    GRAFO *gr = criarGrafo(9);
-    criaAresta(gr, 0, 0);
-    criaAresta(gr, 0, 0);
-    criaAresta(gr, 2, 1);
-    criaAresta(gr, 1, 3);
-    criaAresta(gr, 2, 3);
-    criaAresta(gr, 2, 4);
-    criaAresta(gr, 4, 5);
-    criaAresta(gr, 3, 5);
-    criaAresta(gr, 3, 4);
-
-    imprime(gr);
-}
 
 
